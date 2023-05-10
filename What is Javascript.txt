@@ -1,0 +1,16 @@
+To start, what is Javascript?
+
+Javascript is a web-based programming language used to:
+    -add interactive behavior to webpages
+    -build web and mobile applications
+    -create command line tools
+
+What is Javascript NOT:
+    -Java.
+        Despite being developed around the same time
+        Java, and javascript is not quite used for the
+        same things.
+
+For this self study I used Firefox as the primary browser, 
+and VSstudio to code.
+A dev tool in particular used in extension of VSstudio is liveserver

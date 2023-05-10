@@ -1,0 +1,18 @@
+Arithmatic expression
+Is a combination of:
+operands (values, variables, etc.)
+operators ( + - * / %)
+that can be evaluated to a value
+ex y = x + 5;
+or 
+students = students + 1;
+or even better, use augmented assignment operator, combining the above statement into one by:
+students += 1;
+Basically, a shortcut to re-assign the same variable
+
+Another thing to keep in mind is operator precedence:
+1. Paranthesis ()
+2. Exponents
+3. multiplication & division
+4. addition & subtraction
+Just like in normal arithmatics.

@@ -1,0 +1,14 @@
+There are 3 types of Variables
+
+let 
+    stands for lettuce(because it leaves itself behind)
+    is the most commonly used variable type
+    is limited to within the scope that it is written.
+
+const
+    stands for constant, 
+    once defined it CANNOT be changed
+    useful for variables that you know are never gonna be changed
+    adds a bit of data security.
+    common naming convention dictates to name all constants in FULL CAPS
+
